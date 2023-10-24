@@ -513,3 +513,5 @@ struct ClothingItem {
     let description: String
     let price: Int
 }
+
+//I just made some stuff
